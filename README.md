@@ -1,2 +1,2 @@
 # JavaAlgorithmsHackerRank
-This is a repository of Algorithms charpter in HackerRank using Java
+This is a repository of Prepare>Algorithms chapter in HackerRank using Java
